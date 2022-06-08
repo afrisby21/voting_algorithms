@@ -31,6 +31,10 @@ The voting rule works in rounds. In each round, the alternatives that appear the
 
 Here, I assume that the alternatives are represented by integers.
 
+
 max: Among the possible winning alternatives, select the one with the highest number.
+
 min: Among the possible winning alternatives, select the one with the lowest number.
+
 agent : Among the possible winning alternatives, select the one that agent  ranks the highest in his/her preference ordering. 
+
